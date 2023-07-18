@@ -6,7 +6,7 @@ services:
      networks: 
        - backend 
      ports: 
-       - "3000:3000" 
+       - "443:9090" 
 
 networks: 
    backend: 
