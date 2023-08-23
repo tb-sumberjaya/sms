@@ -1,4 +1,4 @@
 {
-  "ok":true,
-  "result":"Berhasil!"
+  "ok":false,
+  "result":"Gagal!"
 }
